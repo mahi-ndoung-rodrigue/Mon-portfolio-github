@@ -1,0 +1,111 @@
+x <- "Hello world"
+print(x)
+
+q()
+q()
+q()
+q()
+print(x)
+y= "Hello World"
+"Hello World" -> z
+# Impression implicite
+print(x)
+x
+# Création de variables
+l <- TRUE
+i <- 123L
+c <-  "ABC 123" # la variable chaine de caractère doit toujours être entouré des guillemets double
+c <-  "ABC 123" # la variable chaine de caractère doit toujours être entourée des guillemets double
+d  <- as.Date("2023-12-28")
+# Affichage des variables
+l
+i
+n
+n <- 1.23 # On veut créer une variable de type numérique
+n
+c
+d
+# Créer une fonction
+f <- function(x)(x + 1)
+# Appeler la fonction
+f(2)
+# Créer un vecteur
+v <- c(1,2,3); # c est une fonction de concaténation
+v # Afficher les elts du vecteur
+# Créer uneséquence
+s <- 1:5 # cela signifie que l'on veut créer un vecteur de 1 à 5
+s
+# créer une matrice
+m <- matrix(
+data= 1:6, # contenant les valeurs numériques de 1 à 6
+nrow=2,     # 2 lignes
+ncol=3)   # 3 colonnes
+m
+# créer un tableau
+a <- array(data=1:8,
+dim=c(2,2,2))
+a
+# créer une liste
+l <- list( TRUE, 123L, 2.34, "abc") # contient des valeurs hétérogènes
+l
+factor <- factor(categories)
+factor <- factor(categories)
+factor
+factor <- factor(categories)
+factor <- factor(categories)
+factor  <- factor(categories)
+# creer un facteur
+categories  <- c("Homme", "Femme", "Homme", "Homme", "Femme")
+factor  <- factor(categories)
+factor
+Levels(factor)
+unclass(factor)
+df
+# Création d'un dataframe
+df <- data.frame(
+name= c("chat", "chien", "vache", "tigre")
+howmany= c(5, 10, 15, 20)
+df
+df
+df
+# Creation d'un dataframe
+df <- data.frame(
+Name= c("chat", "chien", "vache", "tigre"),
+Howmany= c(5, 10, 15, 20),
+Ispet= c(TRUE, TRUE, FALSE, FALSE))
+df
+# Indéxation des cadres de domaines par ligne et par colonne
+df[1, 2]
+# Indéxation des cadres de domaines par ligne
+df[1, ]
+# Indéxation des cadres de domaines par ligne
+df[, 2]
+df[["Howmany"]] on fait autrement
+df[["Howmany"]] # on fait autrement
+df$Howmany      # On souhaite recupérer la colonne Howmany
+# Sous ensemble de données
+df[c(2, 4), ]
+df[2: 4, ] # on peut aussi utiliser les séquences pour recupérer Deuxième et 4 lignes pour toutes les colonnes.
+df[2:4, ] # on peut aussi utiliser les séquences pour recupérer Deuxième et 4 lignes pour toutes les colonnes.
+df[2:4, ] # on peut aussi utiliser les séquences pour recupérer Deuxième et 4 lignes pour toutes les colonnes.
+df[2:, ] # on peut aussi utiliser les séquences pour recupérer Deuxième et 4 lignes pour toutes les colonnes.
+df[2:4, ] # on peut aussi utiliser les séquences pour recupérer Deuxième et 4 lignes pour toutes les colonnes.
+df[c(TRUE, FALSE TRUE, FALSE), ] # TRUE on veut recupérer la ligne 1, FALSE on ne veut pas recupérer la ligne 2, TRUE on veut recupérer la ligne 3, FALSE on ne veut pas récupérer la ligne4
+df[c(TRUE, FALSE, TRUE, FALSE), ] # TRUE on veut recupérer la ligne 1, FALSE on ne veut pas recupérer la ligne 2, TRUE on veut recupérer la ligne 3, FALSE on ne veut pas récupérer la ligne4
+df[ df$Ispet==TRUE, ] # ici on veut faire une filtration pour les animaux uniquement pour ceux qui sont domestiques
+df[ df$Howmany > 10, ] # On veut les éléments de la col Howmany>10
+df[ df$Name %in% c("chat", "vache"), ] # on souhaite  recupérer les lignes dont la colonne nom est égal a chat et vache
+# R est un langage vectoris,
+1 + 2
+c(1, 2, 3) + c(2, 4, 6)
+# Nomme par rapport aux arguments ordonés
+m <- matrix(data=1:6, nrow = 2, ncol = 3)
+n <- matrix(1:6, nrow = 2, ncol = 3) # on peut encore écrire ca implicitement
+m == n
+identical(m,n) # on vréifie si la matrice est identique
+# Installation des packages
+install.packages("dplyr")
+# Chargement des packages
+library("dplyr")
+# Affichage de l'aide
+?data.frame
