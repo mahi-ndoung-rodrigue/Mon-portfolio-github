@@ -1,4 +1,4 @@
-# Welcome to your Jupyter Book                                      
+# Welcome to my Jupyter Book                                      
                                                                Dévise: Travail, Travail, Travail.
 
 Bienvenue dans mon portfolio académique en data science.
