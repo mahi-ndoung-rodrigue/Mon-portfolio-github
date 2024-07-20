@@ -32,7 +32,7 @@ J'ai appris à Comparez les caractéristiques des sous-groupes à l’aide d’u
 Dans le secteur privé, les tests A/B sont utilisés pour améliorer des choses comme le marketing par e-mail et la tarification des produits. En politique, ils peuvent être utilisés pour tester les messages de campagne. Des scientifiques de toutes sortes les utilisent dans leurs recherches.
 J'ai appris à Construire une carte choroplèthe pour montrer la répartition des élèves ADSL dans le monde, à Créer une classe Python personnalisée pour implémenter des processus ETL, à Concevoir une expérience et à analyser les résultats à l’aide d’un test du chi carré, à Créer une application web interactive qui suit un modèle de conception à trois niveaux.
 
-✔️ Dans Project 8  nous allons créer un modèle pour prédire la volatilité à la Bourse de Bombay.
+✔️ Dans Project 8  nous avons crée un modèle pour prédire la volatilité à la Bourse de Bombay.
 Tout d’abord, nous avons explorer les données boursières de deux entreprises à l’aide de l’API boursière AlphaVantage. Ensuite, nous avons utilisé ces données pour calculer la volatilité et construire un modèle pour la prédire. Enfin, nous allons déployés notre modèle en créant notre propre API pour servir les prédictions.
 J'ai appris à Obtenir des données à partir d’une API Web en effectuant des requêtes HTTP, à transformer et charger des données dans une base de données SQL à l’aide de classes Python personnalisées, à Calculer la volatilité des actifs et construisez un modèle GARCH pour la prédire, à Créer votre propre API Web et votre propre serveur pour servir les prédictions de votre modèle.
 Ces différents projets ne sont pas permis d'être publiés sur des sites publics par l'université.
