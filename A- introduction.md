@@ -7,7 +7,7 @@ Je vous souhaite mes voeux les meilleurs pour ce nouvel an 2024, santé,bonheur,
 
 Je me nomme MAHI NDOUNG RODRIGUE.
 
-Je suis un jeune étudiant camerounais,débutant dans le monde de la science des données,particulièrement en data scientist.je suis un pur autodidacte, j'ai commencé à étudier la programmation sur python,R... sur youtube, puis je me suis inscrit à WORDLQUANT UNIVERSITY(USA) où j'ai passé l'examen de contrôle de connaissances sur python, statistique, mathématique et bien plus.Au bout de six mois j'ai obtenu la certification du [Laboratoire des sciences de données appliquées WORLDQUANT UNIVERSITY](https://www.credly.com/badges/1dc81b29-d1cd-4f9f-9804-79d136b33ec3/public_url) où nous avons travailler sur 8 projets avec les données réelles:
+Je suis un jeune étudiant camerounais,débutant dans le monde de la science des données,particulièrement en data scientist.je suis un pur autodidacte, j'ai commencé à étudier la programmation sur python,R... sur youtube, puis je me suis inscrit à WORDLQUANT UNIVERSITY(USA) où j'ai passé l'examen de contrôle de connaissances sur python, statistique, mathématique et bien plus.Au bout de six mois j'ai obtenu la certification du [Laboratoire des sciences de données appliquées WORLDQUANT UNIVERSITY](https://www.credly.com/badges/1dc81b29-d1cd-4f9f-9804-79d136b33ec3/public_url) où nous avons travaillés sur 8 projets avec les données réelles entre autres:
 
 ✔️ Dans le projet 1, nous avons travaillé avec un ensemble de données contenant 21 000 propriétés à vendre au Mexique via le site Web immobilier [Properati.com](https://properati.com/). Notre objectif était de déterminer si les prix de vente sont davantage influencés par la taille ou l’emplacement de la propriété.
 J'ai appris à organiser les informations à l’aide des structures de données Python de base, à importer des données à partir de fichiers CSV et les nettoyer à l’aide de la bibliothèque pandas, à créer des visualisations de données comme des nuages de points et des boîtes à moustaches, à examiner la relation entre deux variables à l’aide de la corrélation.
@@ -38,7 +38,39 @@ J'ai appris à Obtenir des données à partir d’une API Web en effectuant des 
 Ces différents projets ne sont pas permis d'être publiés sur des sites publics par l'université.
 
 
-A présent, je fais la [certification professionnelle IBM data science](https://www.coursera.org/professional-certificates/ibm-data-science#courses) en ligne sur coursera.Elle comporte 13 cours entre autre [cours 1](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science), [cours 2](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science) dont je viens d'obtenir la certification [Tools for data science](https://www.credly.com/badges/a6d008df-4d62-420a-86b3-af3af1320b5c/public_url), [cours 3](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science) dont je viens d'obtenir la certification la [Méthodologie de la science des données](https://www.credly.com/badges/4fe99f93-5d77-42d0-85fa-35dce206578c/public_url ), [cours 4](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science), [cours 5](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science), [cours 6](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science), dont je viens d'obtenir la certification [BASE DE DONNEES ET SQL POUR LA SCIENCE DES DONNEES AVEC PYTHON](https://www.credly.com/badges/1add142f-5bf0-43fd-9633-f3021b6efc0e/public_url) et [spécialisation en bases de données et SQL avancé Mention d'honneur](https://coursera.org/share/d5eaa31ecee9dfc7b19413418ab32c0f) , [cours 7](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science), [cours 8](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science) dont je viens d'obtenir la certification [VISUALISATION DES DONNEES AVEC PYTHON](https://www.credly.com/badges/6b0fa382-2f74-47c0-9d9c-566d1e08ec45/public_url)  , [cours 9](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science), [cours 10](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science).dont j'obtiendrai la certification en fin juin.
+A présent, je fais la [certification professionnelle IBM data science](https://www.coursera.org/professional-certificates/ibm-data-science#courses) en ligne sur coursera.Elle comporte 12 cours:
+[cours 1](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science),
+
+[cours 2](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science).
+achevé: la certification [Tools for data science](https://www.credly.com/badges/a6d008df-4d62-420a-86b3-af3af1320b5c/public_url),
+
+[cours 3](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science). 
+terminé: la certification la [Méthodologie de la science des données](https://www.credly.com/badges/4fe99f93-5d77-42d0-85fa-35dce206578c/public_url ),
+[cours 4](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science),
+achevé:  cliquer ici pour voir le lien de  la  certification [python pour la science des données, IA et developpement](https://www.credly.com/badges/b0c02fb7-c868-4cf7-af04-15dd95224692/public_url)
+
+
+
+[cours 5](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science),
+
+[cours 6](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science),
+achevé: cliquer ici pour voir la  certification [BASE DE DONNEES ET SQL POUR LA SCIENCE DES DONNEES AVEC PYTHON](https://www.credly.com/badges/1add142f-5bf0-43fd-9633-f3021b6efc0e/public_url) et [spécialisation en bases de données et SQL avancé Mention d'honneur](https://coursera.org/share/d5eaa31ecee9dfc7b19413418ab32c0f).
+
+[cours 7](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science),
+achevé:  cliquer ici pour voir le lien de la  certification [Analyse des données avec python](https://www.credly.com/badges/0860c256-0d7e-4bbd-8023-847cbe339d4e/public_url)
+
+
+[cours 8](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science)
+ achevé:  cliquer ici pour voir le lien de la  certification [VISUALISATION DES DONNEES AVEC PYTHON](https://www.credly.com/badges/6b0fa382-2f74-47c0-9d9c-566d1e08ec45/public_url).
+ Quelques tableau de bord que j'ai eu à créer: [dashboard](https://www.linkedin.com/in/rodrigue-mahi-39466a296/recent-activity/videos/?trk=public_profile-settings_see-all-posts)
+ 
+[cours 9](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
+ 
+[cours 10](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science).
+
+[cours11](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career?specialization=ibm-data-science)
+
+[cours12](https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-science-pc?specialization=ibm-data-science)
 Dans ce portefolio je mettrai en exergue une partie de mes travaux que j'ai réalisé parallèlement d'une manière individuel en même temps que je me fais former.
 En outre, dans un premier temps je vous présenterai au chapitre 1 mes cinq projets élaboré de façon autonôme avec python.
 Ensuite, dans un second temps j'éluciderai au chapitre 2 ma prise en main avec R.
