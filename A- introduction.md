@@ -40,13 +40,14 @@ Ces différents projets ne sont pas permis d'être publiés sur des sites public
 
 A présent, je fais la [certification professionnelle IBM data science](https://www.coursera.org/professional-certificates/ibm-data-science#courses) en ligne sur coursera.Elle comporte 12 cours:
 
-[cours 1](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science),
+terminé ✔️ [cours 1](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science),
 
 [cours 2](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science).
 terminé ✔️: cliquer ici pour voir la  certification [Tools for data science](https://www.credly.com/badges/a6d008df-4d62-420a-86b3-af3af1320b5c/public_url),
 
 [cours 3](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science). 
-terminé: cliquer ici pour voir la  certification [Méthodologie de la science des données](https://www.credly.com/badges/4fe99f93-5d77-42d0-85fa-35dce206578c/public_url ),
+terminé ✔️: cliquer ici pour voir la  certification [Méthodologie de la science des données](https://www.credly.com/badges/4fe99f93-5d77-42d0-85fa-35dce206578c/public_url ),
+
 [cours 4](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science),
 terminé ✔️:  cliquer ici pour voir le lien de  la  certification [python pour la science des données, IA et developpement](https://www.credly.com/badges/b0c02fb7-c868-4cf7-af04-15dd95224692/public_url)
 
@@ -65,13 +66,13 @@ terminé ✔️:  cliquer ici pour voir le lien de la  certification [Analyse de
  terminé ✔️:  cliquer ici pour voir le lien de la  certification [VISUALISATION DES DONNEES AVEC PYTHON](https://www.credly.com/badges/6b0fa382-2f74-47c0-9d9c-566d1e08ec45/public_url).
  Quelques tableau de bord que j'ai eu à créer: [dashboard](https://www.linkedin.com/in/rodrigue-mahi-39466a296/recent-activity/videos/?trk=public_profile-settings_see-all-posts)
  
-[cours 9](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
+[cours 9](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science).
  
 [cours 10](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science).
 
-[cours11](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career?specialization=ibm-data-science)
+[cours11](https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career?specialization=ibm-data-science).
 
-[cours12](https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-science-pc?specialization=ibm-data-science)
+[cours12](https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-science-pc?specialization=ibm-data-science).
 
 Dans ce portefolio je mettrai en exergue une partie de mes travaux que j'ai réalisé parallèlement d'une manière individuel en même temps que je me fais former.
 En outre, dans un premier temps je vous présenterai au chapitre 1 mes cinq projets élaboré de façon autonôme avec python.
